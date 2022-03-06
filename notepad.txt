@@ -1,3 +1,4 @@
 # Practice
 Learning GIT-practice makes perfect
 Practice makes perfect!
+This is another new note in the file.
