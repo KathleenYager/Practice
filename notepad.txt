@@ -2,3 +2,4 @@
 Learning GIT-practice makes perfect
 Practice makes perfect!
 This is another new note in the file.
+Not sure how I got that practice folder in my repo. Each clone, add, commit and push has worked. I see that I can continue to use the same notepad file.
